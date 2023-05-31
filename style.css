@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+input[type="file"] {
+  margin-bottom: 10px;
+}
+
+#output {
+  margin-top: 20px;
+  white-space: pre-line;
+}
+
